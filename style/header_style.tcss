@@ -1,13 +1,12 @@
 #left_button {
 	dock: left;
-	border: none;
-	min-height: 1;
 }
 #right_button {
-	dock: right;
-	border: none;
-	min-height: 1;
 }
 Header {
-	width: 50;
+    height: 3;
+    width: 100%;
+    background: $surface;
+    layout: horizontal;
+    align: center middle;
 }
