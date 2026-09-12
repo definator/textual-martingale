@@ -1,0 +1,13 @@
+#left_button {
+	dock: left;
+	border: none;
+	min-height: 1;
+}
+#right_button {
+	dock: right;
+	border: none;
+	min-height: 1;
+}
+Header {
+	width: 50;
+}
