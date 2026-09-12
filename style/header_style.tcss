@@ -1,8 +1,10 @@
 #balance_button {
 	dock: left;
+	color: lightblue;
 }
 #balance_button:focus {
-    text-style: none;
+    text-style: underline bold;
+	color: lightblue;
 }
 #right_button {
 }
