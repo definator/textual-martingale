@@ -1,5 +1,8 @@
-#left_button {
+#balance_button {
 	dock: left;
+}
+#balance_button:focus {
+    text-style: none;
 }
 #right_button {
 }
